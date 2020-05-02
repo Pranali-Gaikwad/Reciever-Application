@@ -3,7 +3,10 @@ package com.application.recieverapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+/*
+*
+* created by Pranali gaikwad
+*/
 public class MainActivity extends AppCompatActivity {
 
     @Override
